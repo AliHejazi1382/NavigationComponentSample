@@ -1,4 +1,4 @@
-package com.example.navigationcomponentsample.ui
+package com.example.navigationcomponentsample.ui.home
 
 import androidx.fragment.app.Fragment
 import com.example.navigationcomponentsample.R
