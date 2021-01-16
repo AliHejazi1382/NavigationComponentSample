@@ -1,7 +1,8 @@
-package com.example.navigationcomponentsample
+package com.example.navigationcomponentsample.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.navigationcomponentsample.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
