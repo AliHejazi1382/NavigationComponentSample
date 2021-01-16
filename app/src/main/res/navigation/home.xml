@@ -8,7 +8,7 @@
     <fragment
         android:id="@+id/homeFragment"
         android:name="com.example.navigationcomponentsample.ui.home.HomeFragment"
-        android:label="fragment_home"
+        android:label="@string/home_title"
         tools:layout="@layout/fragment_home" >
         <action
             android:id="@+id/action_homeFragment_to_detailFragment"
@@ -17,6 +17,6 @@
     <fragment
         android:id="@+id/detailFragment"
         android:name="com.example.navigationcomponentsample.ui.home.DetailFragment"
-        android:label="fragment_detail"
+        android:label="@string/detail_title"
         tools:layout="@layout/fragment_detail" />
 </navigation>

@@ -8,6 +8,6 @@
     <fragment
         android:id="@+id/userFragment"
         android:name="com.example.navigationcomponentsample.ui.user.UserFragment"
-        android:label="fragment_user"
+        android:label="@string/user_title"
         tools:layout="@layout/fragment_user" />
 </navigation>

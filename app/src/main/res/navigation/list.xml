@@ -8,7 +8,7 @@
     <fragment
         android:id="@+id/listFragment"
         android:name="com.example.navigationcomponentsample.ui.list.ListFragment"
-        android:label="fragment_list"
+        android:label="@string/list_title"
         tools:layout="@layout/fragment_list" >
         <action
             android:id="@+id/action_listFragment_to_flowerFragment"
@@ -17,7 +17,7 @@
     <fragment
         android:id="@+id/flowerFragment"
         android:name="com.example.navigationcomponentsample.ui.list.FlowerFragment"
-        android:label="fragment_flower"
+        android:label="@string/flower_title"
         tools:layout="@layout/fragment_flower" >
         <argument
             android:name="photo"
