@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">NavigationComponentSample</string>
+
+<!--    layout of home fragment-->
+    <string name="home_fragment_title">Home Fragment</string>
+    <string name="go_to_detail">Go to detail fragment</string>
+
+
 </resources>
