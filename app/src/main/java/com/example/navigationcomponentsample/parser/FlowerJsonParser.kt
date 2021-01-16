@@ -47,6 +47,6 @@ class FlowerJsonParser {
             }
         }
         reader.endObject()
-        return Flowers(productId, name, category, instructions, photo, price)
+        return Flowers(productId, category, instructions, name, photo, price)
     }
 }
